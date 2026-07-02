@@ -28,7 +28,7 @@ Two [Claude Code](https://claude.com/claude-code) skills for analyzing Polymarke
 Requires Python 3.10+ and `matplotlib` (charts). `certifi` is optional but recommended on macOS.
 
 ```bash
-git clone https://github.com/Bruinworker/claude-polymarket-skills.git
+git clone https://github.com/GhanWork/claude-polymarket-skills.git
 cd claude-polymarket-skills
 ./install.sh          # copies both skills into ~/.claude/skills/
 pip install matplotlib certifi
